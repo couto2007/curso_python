@@ -5,4 +5,4 @@ pulando linhas, como um word. Pode se usar também aspas simples - O nome disso 
 # Aqui é um comentário
 print(9*99) # posso comentar ao lado e abaixo
 # cometario
-print(123)
+print(12)
